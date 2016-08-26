@@ -1,7 +1,9 @@
-* { font-family: Helvetica;  color: black; }
+* { font-family: Helvetica;  color: black; font-size: 24px; }
 .finished { color: DimGrey; font-size: 80%; }
 .plotline { color: red; font-size: 150%; }
 .prevPlot { color: blue; }
 .nextPlot { color: blue }
 .rough { color: green; }
 p.intro:first-letter { font-size: 200% }
+.chapterHeading { text-decoration: underline; }
+.insert { color:blue; font-style: oblique; background-color: yellow; }
