@@ -4,6 +4,11 @@
 .prevPlot { color: blue; }
 .nextPlot { color: blue }
 .rough { color: green; }
-p.intro:first-letter { font-size: 200% }
 .chapterHeading { text-decoration: underline; }
-.insert { color:blue; font-style: oblique; background-color: yellow; }
+.expand { color:blue; font-style: oblique; background-color: yellow; }
+.pic { color: magenta }
+.page { margin: 10px 20px; }
+.spell { color: brown; }
+.book { color: olive; }
+.place { color: purple; }
+p.intro:first-letter { font-family: Georgia; font-size: 130% }
